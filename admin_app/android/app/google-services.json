@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197013741082",
+    "project_id": "stroy-messanger",
+    "storage_bucket": "stroy-messanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197013741082:android:e1b566f38c20f881567ba3",
+        "android_client_info": {
+          "package_name": "com.thedeveloper.stroy_messanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkIhkci7QjJLfmD9xS1lJfOPJwTBqCh6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

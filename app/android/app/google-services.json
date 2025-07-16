@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810740228003",
+    "project_id": "stroymessegecall123",
+    "storage_bucket": "stroymessegecall123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810740228003:android:b842edf81d14dbe5340416",
+        "android_client_info": {
+          "package_name": "com.thedeveloper.stroy_messanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcnE2F7wVA6bIXa6Sny1SY7KvM1ThRcYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

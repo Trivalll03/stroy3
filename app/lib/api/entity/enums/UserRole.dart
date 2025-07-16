@@ -1,0 +1,3 @@
+enum UserRole{
+  USER,SPECIALIST,ADMIN,MANAGER;
+}

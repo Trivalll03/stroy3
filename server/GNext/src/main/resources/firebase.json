@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stroymessegecall123",
+  "private_key_id": "407c38e0e0c18b2743e552b34806dd74d21e9730",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnfCVlZlzaaHUj\nTdZcR3jFZNsOiHNj8ZXaXz+QN218RjRqWGCwiS0xLN8g8v7CEDL5mE4iXH+2YupB\nzVT4hpZ2atvFv6BKsBsZEg/d81MLCZnxA1Lp8tZ2SMiTgBZIB61lbHLaXv7pXJQS\nIFemBio99H83oWwInRIucS8ASGY6mc2ksPRKyMCpOZUa6jdG8YmcvpNOAmPac6rx\n6vK+5rL6EaPBFuoXxeiRxCOqGydKtrpGlU6tJyI6DQbiwkpdv0nec+vwHbhbffRF\n7a0LXQFqmpt8wXOh0zwGbvDejAK+AFa+g/KRCG+hPq2RX6f5HkoPHhn/TVRzbbAH\nT+bNqoWZAgMBAAECggEAS8h6y1Tz8seNKTpRIlQcq4SlMgA/5hssKTEr+794xOCn\nWu8+YOLRFg0tsSUCbSETT6jAwf+Esiwzvy5/oiyT7GURqHq6ttDUkhWAJHezPa1M\ngKd2XvFIZSEt0MAGVPVUWi4mEfUl9sWzIjiMME1d08bLwYpC7erUjTsdf01DJIQz\nmVQV/oN0ogou/jVkh84SHMrS9mCAk2XNRBAAndKLUdCqyNKX+82aqN0TFy6KokPH\ntO46sdnIrj38wa7/3wZvh6nJ+4joxmemJjQNS/LDG9cVCXruMrpDnUKuFmpIEhmV\nMZEnALXmtELzMoZsNMLKTj14tMv4nyyEdLkckT5LeQKBgQDd2PS53uaAoO5OU8iP\ntVJwsY6ydWFAcneGNiPH6ioyu1LPKPalkh4fiLWnv1lKyQccfztfvPUoDitOWPSC\nOZobZTvwC4NmkMu13f1KKriq0UpaLBhEVKae+TyKbMncYqcWFnmusDfYnfkxxd9J\n59QcN+/kbH6yo4mjvkxLMCYxnwKBgQDBRMEERUyqpy8kPi0CUyYMK0lvDeG9G3FA\nbdRIkHCo4rxxTZPjx0Tdk+A6uBpDirrOB84Z02i0icjd4xZe/gULi0AD/xkd6fpt\nYzTZdYHVA4xd+LEhO5f8jYOFQR4RmZyy6VqHZ+lwwBfa0CqegrM/39mQbH0OYwUm\nVB6m+R8txwKBgQDcPHbvUxaX2avafJid+g8Gq26TQa4zUa/QwEyTOad8x7R0ziDV\nzBI1kf1ss6yMbretla225JqokjBxziOmaFLSIZT4QCXJm7NwMBo1F+ZORgm/LQlG\nRJdJOPreHRPkwtdHOTbBslUuqd1qiRqbfxd2kB2KMh8xbuLEeLW66ujv1wKBgQCP\n6sTYi0o14dzm3i3iB0zTzwAV5H5utZq14ZMsnfJmsMCmlqBEA8UyQsW8tA9KsGm+\ntm0xKg5UMi4TnOCxx/K1z/HRiAqKDgvfnPpj3G7b0pKZ/3DXUGszM6X2erELZhob\n2E0De8uHnGOnG1BBTQ5xyB1YwJC3P+E703Qn3mbrTQKBgEIOgFo/OpW8r4jRoqwW\n4ZQ8u6oF0gCs7OIJgzTZZxqHZwLSIigmdWyPWl8Im0O9535+mvNIZeP+DPA3kcu3\nBvVfiZ86/FmZ8fJxXuO8yb/ESWFc5CwOpPFAkQA+lFz0brfknPvXNEtKm3UqTuMq\n+ZplHlSj85lJoUjP/oskyZ5K\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@stroymessegecall123.iam.gserviceaccount.com",
+  "client_id": "116954214843767472978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40stroymessegecall123.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

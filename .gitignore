@@ -1,0 +1,4 @@
+app/*.g.dart
+app/lib/api/RestClient.g.dart
+**.7z
+server.tar.zst
